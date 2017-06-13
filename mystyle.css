@@ -1,0 +1,40 @@
+.description {
+  /*display: flex;*/
+  /*flex-direction: center;
+  flex-direction: column;*/
+  background-color: pink;
+
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.cont {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.row {
+  display: flex;
+}
+
+.row img {
+  margin-left: 10px;
+}
+
+img {
+  display: flex;
+  flex-direction: center;
+  max-width: 100px;
+  max-height: 160px;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
