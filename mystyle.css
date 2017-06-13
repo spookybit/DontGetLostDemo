@@ -2,7 +2,8 @@
   /*display: flex;*/
   /*flex-direction: center;
   flex-direction: column;*/
-  background-color: pink;
+  /*background-color: pink;*/
+  background-color: #86C4D3
 
 }
 
@@ -29,8 +30,8 @@
 img {
   display: flex;
   flex-direction: center;
-  max-width: 100px;
-  max-height: 160px;
+  max-width: 350px;
+  max-height: 350px;
 }
 
 body {
