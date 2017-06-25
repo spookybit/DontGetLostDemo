@@ -3901,6 +3901,7 @@
 
 			#header {
 				background-image: url("images/overlay.png"), url("images/pattern-size2.svg");
+				background-image: url("images/overlay.png"), url("images/pattern-size2.svg");
 			}
 
 		}
@@ -4148,4 +4149,20 @@
 			padding: 3em 1.5em 1em 1.5em ;
 		}
 
+	}
+
+	.phone1 {
+		margin-right: 20px;
+	}
+
+	.phone2 {
+		margin-left: 20px;
+	}
+
+	#header {
+		background-image: url("../../images/headerimage.jpg");
+	}
+
+	.large-spacing {
+		margin-right: 100px;
 	}
